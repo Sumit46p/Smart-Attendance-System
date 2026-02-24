@@ -1,7 +1,0 @@
-opencv-python
-face-recognition
-numpy
-pandas
-SpeechRecognition
-pyaudio
-librosa
